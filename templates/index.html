@@ -6,7 +6,11 @@
     <title>Негр</title>
 </head>
 <body>
-    <h1></h1>
-    
+    {% include "menu.html" %}
+    <main>
+    {%block content%}
+    {%endblock%}
+    </main>
+    {% include "footer.html" %}
 </body>
 </html>
