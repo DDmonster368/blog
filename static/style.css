@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(80, 10, 112);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.post-image{
+    float: left;
+    border: 5px double black;
+    margin-right: 10px;
+}
+
+.category-header{
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
