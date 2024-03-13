@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(80, 10, 112);
+    background-color: rgb(160, 179, 226);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 
@@ -13,3 +13,8 @@ body{
     font-size: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.d1 {
+    display:flex;
+    
+    }
